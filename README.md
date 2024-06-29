@@ -9,3 +9,6 @@ composer install
 ```
 php -S localhost:8080 -t public
 ```
+
+## Make sure to also clone front end
+https://github.com/Loai-AL-Sabahi/frontend
